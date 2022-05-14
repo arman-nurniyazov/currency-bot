@@ -1,0 +1,58 @@
+[
+  {
+    "chatId": "967128667",
+    "date": "2021-12-24T06:55:30.711669800",
+    "from": "AQSH dollari",
+    "amount": 10,
+    "to": " so'm",
+    "total": 108072.5
+  },
+  {
+    "chatId": "280838813",
+    "date": "2021-12-24T13:51:16.006874800",
+    "from": "Urugvay pesosi",
+    "amount": 2000,
+    "to": " so'm",
+    "total": 487420.0
+  },
+  {
+    "chatId": "688517356",
+    "date": "2021-12-25T10:19:19.262343100",
+    "from": "EVRO",
+    "amount": 100,
+    "to": " so'm",
+    "total": 1223489.0
+  },
+  {
+    "chatId": "971911554",
+    "date": "2021-12-25T16:11:47.297307100",
+    "from": "AQSH dollari",
+    "amount": 100,
+    "to": " so'm",
+    "total": 1080725.0
+  },
+  {
+    "chatId": "652933459",
+    "date": "2021-12-27T00:24:04.290307700",
+    "from": "AQSH dollari",
+    "amount": 100,
+    "to": " so'm",
+    "total": 1080725.0
+  },
+  {
+    "chatId": "355699312",
+    "date": "2021-12-27T17:12:10.682852",
+    "from": "AQSH dollari",
+    "amount": 10000,
+    "to": " so'm",
+    "total": 1.079823E8
+  },
+  {
+    "chatId": "355699312",
+    "date": "2021-12-27T17:12:27.859607100",
+    "from": "AQSH dollari",
+    "amount": 10,
+    "to": " so'm",
+    "total": 107982.29999999999
+  }
+]

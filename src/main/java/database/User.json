@@ -1,0 +1,65 @@
+[
+  {
+    "chatId": "967128667",
+    "firstname": "Arman",
+    "lastname": "Nurniyazov",
+    "phoneNumber": "+998907009911",
+    "userRole": "ADMIN",
+    "registeredDate": "2021-12-24T01:52:06.396475200",
+    "smsCode": "2259"
+  },
+  {
+    "chatId": "193431901",
+    "firstname": "Husan",
+    "lastname": null,
+    "phoneNumber": "+998935751730",
+    "userRole": "USER",
+    "registeredDate": "2021-12-24T02:38:46.355486200",
+    "smsCode": "4576"
+  },
+  {
+    "chatId": "280838813",
+    "firstname": "乃乇ズ乙のり",
+    "lastname": null,
+    "phoneNumber": "998936870850",
+    "userRole": "USER",
+    "registeredDate": "2021-12-24T13:50:01.850509500",
+    "smsCode": "2142"
+  },
+  {
+    "chatId": "688517356",
+    "firstname": "Shariyar",
+    "lastname": null,
+    "phoneNumber": "998999560427",
+    "userRole": "USER",
+    "registeredDate": "2021-12-25T10:18:01.582038700",
+    "smsCode": "5552"
+  },
+  {
+    "chatId": "971911554",
+    "firstname": "Аллаяр Жанназарович",
+    "lastname": null,
+    "phoneNumber": "998973556033",
+    "userRole": "USER",
+    "registeredDate": "2021-12-25T16:10:45.975111200",
+    "smsCode": "9166"
+  },
+  {
+    "chatId": "652933459",
+    "firstname": "8828",
+    "lastname": null,
+    "phoneNumber": "998913888828",
+    "userRole": "USER",
+    "registeredDate": "2021-12-27T00:22:21.499316500",
+    "smsCode": "3694"
+  },
+  {
+    "chatId": "355699312",
+    "firstname": "Mambetáli",
+    "lastname": "Nókisbaev",
+    "phoneNumber": "998934879598",
+    "userRole": "USER",
+    "registeredDate": "2021-12-27T17:09:44.842196100",
+    "smsCode": "4281"
+  }
+]
